@@ -1,24 +1,10 @@
 # README
+# BusyBee Alterations
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created by: Luis Lozano
 
-Things you may want to cover:
+Backend: https://github.com/theLuis6827/frontend-alterations-app 
 
-* Ruby version
+## Description
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is an application that I built for a small clothing alteration business. It uses a Rails backend and React frontend with JWT Auth. 
